@@ -2,6 +2,9 @@
 
 Narwhal Assistant is a lightweight discovery / utility tool for searching, organizing, and exploring your workflow faster.
 
+![Uploading image.png…]()
+
+
 ## Download
 Get the latest version here:
 https://azureknight85.gumroad.com/l/narwhalAssistant
